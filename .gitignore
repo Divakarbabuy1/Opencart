@@ -1,0 +1,17 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.idea/
+.settings/
+.project
+.classpath
+*.iml
+
+# Build Artifacts
+target/
+test-output/
+logs/
+reports/
+screenshots/
