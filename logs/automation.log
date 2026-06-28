@@ -1,0 +1,38 @@
+18:05:40.316 [main] INFO  testCases.TC001_RegistrationTest - ###### Starting TC001_RegistrationTest #########
+18:05:40.319 [main] INFO  testCases.TC001_RegistrationTest - Moving to Home Page
+18:05:40.329 [main] INFO  testCases.TC001_RegistrationTest - Clicking on My Account
+18:05:40.374 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+18:05:40.590 [main] INFO  testCases.TC001_RegistrationTest - Navigating to Registration page
+18:05:40.592 [main] INFO  testCases.TC001_RegistrationTest - Providing dynamic user details
+18:05:40.950 [main] INFO  testCases.TC001_RegistrationTest - Verifying success message
+18:05:41.166 [main] INFO  testCases.TC001_RegistrationTest - TC001_RegistrationTest Passed Successfully
+18:05:41.166 [main] INFO  testCases.TC001_RegistrationTest - ###### End of the TC001_RegistrationTest #########
+18:05:42.576 [main] INFO  testCases.TC002_LoginTest - ###### Starting TC002_LoginTest #########
+18:05:42.752 [main] INFO  testCases.TC002_LoginTest - Entering user credentials
+18:05:42.952 [main] INFO  testCases.TC002_LoginTest - Verifying My Account dashboard presence
+18:05:43.089 [main] INFO  testCases.TC002_LoginTest - TC002_LoginTest Passed Successfully
+18:05:43.089 [main] INFO  testCases.TC002_LoginTest - ###### End of the TC002_LoginTest #########
+18:05:43.535 [main] INFO  utilities.ExtentReportManager - Local UI run detected. Automatically opening the Extent Report in browser.
+18:05:43.555 [main] INFO  utilities.ExtentReportManager - Initiating email dispatch sequence to: divakarbabuy8050@gmail.com
+18:05:48.999 [main] INFO  utilities.EmailUtility - Email report sent successfully to: divakarbabuy8050@gmail.com
+18:05:49.000 [main] INFO  utilities.ExtentReportManager - Email handoff completed successfully.
+18:05:49.000 [main] INFO  utilities.ExtentReportManager - Applying 3-second network buffer for terminal execution safety...
+18:11:28.139 [main] INFO  testCases.TC001_RegistrationTest - ###### Starting TC001_RegistrationTest #########
+18:11:28.143 [main] INFO  testCases.TC001_RegistrationTest - Moving to Home Page
+18:11:28.152 [main] INFO  testCases.TC001_RegistrationTest - Clicking on My Account
+18:11:28.196 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Register
+18:11:28.409 [main] INFO  testCases.TC001_RegistrationTest - Navigating to Registration page
+18:11:28.410 [main] INFO  testCases.TC001_RegistrationTest - Providing dynamic user details
+18:11:28.948 [main] INFO  testCases.TC001_RegistrationTest - Verifying success message
+18:11:28.980 [main] INFO  testCases.TC001_RegistrationTest - TC001_RegistrationTest Passed Successfully
+18:11:28.980 [main] INFO  testCases.TC001_RegistrationTest - ###### End of the TC001_RegistrationTest #########
+18:11:30.408 [main] INFO  testCases.TC002_LoginTest - ###### Starting TC002_LoginTest #########
+18:11:30.585 [main] INFO  testCases.TC002_LoginTest - Entering user credentials
+18:11:30.786 [main] INFO  testCases.TC002_LoginTest - Verifying My Account dashboard presence
+18:11:30.970 [main] INFO  testCases.TC002_LoginTest - TC002_LoginTest Passed Successfully
+18:11:30.970 [main] INFO  testCases.TC002_LoginTest - ###### End of the TC002_LoginTest #########
+18:11:31.419 [main] INFO  utilities.ExtentReportManager - Local UI run detected. Automatically opening the Extent Report in browser.
+18:11:31.445 [main] INFO  utilities.ExtentReportManager - Initiating email dispatch sequence to: divakarbabuy8050@gmail.com
+18:11:36.603 [main] INFO  utilities.EmailUtility - Email report sent successfully to: divakarbabuy8050@gmail.com
+18:11:36.604 [main] INFO  utilities.ExtentReportManager - Email handoff completed successfully.
+18:11:36.604 [main] INFO  utilities.ExtentReportManager - Applying 3-second network buffer for terminal execution safety...

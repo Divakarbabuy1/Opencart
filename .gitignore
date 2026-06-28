@@ -12,6 +12,6 @@ Thumbs.db
 # Build Artifacts
 target/
 test-output/
-logs/
-reports/
+!logs/
+!reports/
 screenshots/
